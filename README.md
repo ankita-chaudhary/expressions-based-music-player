@@ -53,3 +53,17 @@ Some advanced features can be added and modification can be made.
 ### Conclusion:
 This project has been developed to give us advance features . Expression Based Music player fulfils to sort out the music based on the emotions of the user such as whether it is happy or sad .Our work  aims to develop a player which is based on user need and it helps to revive in case of free time or leisure time if we want to hear music based on our current situation.
 
+## Mock-Up Screens:
+### First screen
+![First Screen](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(68).png)
+### Face Detection and mood prediction:
+![camera](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(73).png)
+### Four Moods : Happy,sad,angry,neutral
+![happy](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(69).png)
+![sad](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(70).png)
+![angry](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(71).png)
+![neutral](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(72).png)
+### Media Player
+![media](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(74).png)
+
+
