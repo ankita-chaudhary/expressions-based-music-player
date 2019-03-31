@@ -66,4 +66,7 @@ This project has been developed to give us advance features . Expression Based M
 ### Media Player
 ![media](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/mockup_screens/Screenshot%20(74).png)
 
+## Wireframe pdf
+![wireframe](https://github.com/ankita-chaudhary/expressions-based-music-player/blob/master/.github/ISSUE_TEMPLATE/emt2.pdf)
+
 
