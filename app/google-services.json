@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "786242451743",
+    "firebase_url": "https://ebm-player.firebaseio.com",
+    "project_id": "ebm-player",
+    "storage_bucket": "ebm-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786242451743:android:2d99a9f1398f617a",
+        "android_client_info": {
+          "package_name": "com.example.ebmplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786242451743-lb6loqv33ong6a84ts1avcccrp9l1sav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebmplayer",
+            "certificate_hash": "6f134297408a5e12c646ce299bf4a92cdcd89612"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGRGJBPlLj2D27RosI8899D5ZQq1E5Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786242451743-i30f15o2e1n40blroe3v1jjmipbpiuem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
